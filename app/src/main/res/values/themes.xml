@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Candle" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF07090F</item>
+        <item name="android:statusBarColor">#FF07090F</item>
+        <item name="android:navigationBarColor">#FF07090F</item>
+    </style>
+</resources>
